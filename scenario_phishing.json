@@ -1,0 +1,15 @@
+{
+  "title": "Phishing + MFA Fatigue",
+  "story": "User reports repeated unexpected MFA prompts and later approves one. Shortly after, a VPN login from an unknown IP.",
+  "artifacts": [
+    "data/logs/mfa_fatigue.jsonl"
+  ],
+  "expected": {
+    "phase": "containment",
+    "actions": [
+      "Disable user sessions, reset credentials, enforce number-matching MFA",
+      "Block source IP (temporary), investigate OAuth consent grants",
+      "Hunt for matching IOC across auth logs"
+    ]
+  }
+}
