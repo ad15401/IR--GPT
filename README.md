@@ -67,7 +67,7 @@ LinkedIn: https://www.linkedin.com/in/anirudhdiwakar15/
 Email: anirudhdiwakar15@gmail.com
 
 🖼️ Demo
-# Add a screenshot of your Streamlit interface for better visibility:
+# Screenshot for reference:
 <img width="1901" height="963" alt="image" src="https://github.com/user-attachments/assets/0a7caaa6-d104-419c-a8bf-1d37eea950b3" />
 
 ⭐ Contribute
