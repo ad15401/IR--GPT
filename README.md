@@ -60,20 +60,15 @@ IR-GPT retrieves guidance from NIST-aligned playbooks and provides:
 - NIST CSF: Identify, Protect, Detect, Respond, Recover
 - Designed for GRC analysts, SOC teams, and IR consultants
 
-📄 Documentation
-docs/
-├── IR-GPT_Engineers_Guide.pdf
-└── IR-GPT_Portfolio_Report.pdf
-
 👤 Author
-Adiwakar
+Anirudh Diwakar
 Security+ Certified | M.S. Cybersecurity Risk Management | Indiana University
-LinkedIn: https://linkedin.com/in/adiwakar
-Email: adiwakar@example.com (optional)
+LinkedIn: https://www.linkedin.com/in/anirudhdiwakar15/
+Email: anirudhdiwakar15@gmail.com
 
 🖼️ Demo
 # Add a screenshot of your Streamlit interface for better visibility:
-![IR-GPT Demo](docs/IR-GPT-Demo.png)
+<img width="1901" height="963" alt="image" src="https://github.com/user-attachments/assets/0a7caaa6-d104-419c-a8bf-1d37eea950b3" />
 
 ⭐ Contribute
 # Pull requests and feedback are welcome!
